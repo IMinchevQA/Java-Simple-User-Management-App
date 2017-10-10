@@ -1,10 +1,8 @@
 package search;
 import models.User;
-import util.DbUtil;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.PrintWriter;
 import java.sql.DriverManager;
 import java.sql.*;
 import java.util.ArrayList;
